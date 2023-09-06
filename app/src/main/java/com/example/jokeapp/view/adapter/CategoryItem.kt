@@ -3,12 +3,13 @@ package com.example.jokeapp.view.adapter
 import android.view.View
 import android.widget.LinearLayout
 import android.widget.TextView
+import androidx.cardview.widget.CardView
 import com.example.jokeapp.R
 import com.example.jokeapp.model.Category
 import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
 
-class CategoryItem(private val category: Category): Item<CategoryItem.CategoryViewHolder>() {
+class CategoryItem(val category: Category): Item<CategoryItem.CategoryViewHolder>() {
     inner class CategoryViewHolder(view: View): GroupieViewHolder(view){
 
     }
@@ -18,9 +19,8 @@ class CategoryItem(private val category: Category): Item<CategoryItem.CategoryVi
     }
 
     override fun bind(viewHolder: CategoryViewHolder, position: Int) {
-        viewHolder.itemView.findViewById<TextView>(R.id.text_type).text = category.name.toString()
-        viewHolder.itemView.findViewById<LinearLayout>(R.id.container_category)
-            .setBackgroundColor(category.backgroundColor.toInt())
+        viewHolder.itemView.findViewById<TextView>(R.id.text_type).text = category.name
+
     }
 
     override fun getLayout(): Int {
