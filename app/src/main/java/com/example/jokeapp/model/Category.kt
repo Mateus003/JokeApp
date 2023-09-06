@@ -1,6 +1,5 @@
 package com.example.jokeapp.model
 
 data class Category(
-    val name: String,
-    val backgroundColor: Long
+    val name: String
 )
