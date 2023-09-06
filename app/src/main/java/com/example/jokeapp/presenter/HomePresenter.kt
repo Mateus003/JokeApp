@@ -17,7 +17,7 @@ class HomePresenter(private val view: HomeFragment,
     override fun onSuccess(response: List<String>) {
         val cor: Long = 0XFFE2D9C2
         val categories = response.map { category->
-            Category(category, cor)
+            Category(category)
         }
 
         view.showCategories(categories)
