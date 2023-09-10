@@ -27,6 +27,9 @@ O aplicativo possui os seguintes recursos principais:
 
 4. Explore as diferentes categorias de piadas, divirta-se com as piadas do dia e verifique a seção "Sobre o Aplicativo" para mais informações.
 
+## Vídeo de utilização do aplicativo
+[Vídeo de demonstração.webm](https://github.com/Mateus003/JokeApp/assets/102229622/e5918a7d-0335-446c-aa3c-4627855210fd)
+
 
 
 
