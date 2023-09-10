@@ -35,6 +35,6 @@ O aplicativo possui os seguintes recursos principais:
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT/).
 
 
