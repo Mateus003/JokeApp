@@ -31,10 +31,3 @@ O aplicativo possui os seguintes recursos principais:
 [Vídeo de demonstração.webm](https://github.com/Mateus003/JokeApp/assets/102229622/e5918a7d-0335-446c-aa3c-4627855210fd)
 
 
-
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT/).
-
-
