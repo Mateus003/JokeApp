@@ -7,8 +7,6 @@ Este é um aplicativo Android que oferece uma seleção de piadas engraçadas so
 - **Kotlin:** O aplicativo foi desenvolvido usando a linguagem de programação Kotlin, que é oficialmente suportada pelo Android e oferece uma experiência de desenvolvimento moderna e concisa.
 - **Fragments:** O uso de fragments permite que o aplicativo tenha uma interface de usuário flexível e adaptável, tornando-o adequado para diferentes tamanhos de tela e dispositivos.
 - **Retrofit:** A biblioteca Retrofit é usada para fazer chamadas de API de forma eficiente e simples. Ela facilita a comunicação com a API que fornece as piadas do Chuck Norris.
-- **Arquitetura MVP (Model-View-Presenter):** O aplicativo segue a arquitetura MVP para separar claramente as responsabilidades do modelo, da visualização e do apresentador, tornando-o mais fácil de entender e manter.
-
 ## Recursos do Aplicativo
 
 O aplicativo possui os seguintes recursos principais:
@@ -25,7 +23,7 @@ O aplicativo possui os seguintes recursos principais:
 
 3. Compile e execute o aplicativo em um emulador ou dispositivo Android.
 
-4. Explore as diferentes categorias de piadas, divirta-se com as piadas do dia e verifique a seção "Sobre o Aplicativo" para mais informações.
+4. Explore as diferentes categorias de notícias, busque notícias específicas e fique atualizado com as últimas informações.
 
 ## Vídeo de utilização do aplicativo
 [Vídeo de demonstração.webm](https://github.com/Mateus003/JokeApp/assets/102229622/e5918a7d-0335-446c-aa3c-4627855210fd)
