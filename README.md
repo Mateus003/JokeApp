@@ -19,11 +19,11 @@ O aplicativo possui os seguintes recursos principais:
 
 1. Clone este repositório em sua máquina local: git clone https://github.com/Mateus003/JokeApp.git
 
-2. Abra o projeto em seu ambiente de desenvolvimento preferido (Android Studio, por exemplo).
+2. Abra o projeto em seu ambiente de desenvolvimento (Android Studio, por exemplo).
 
 3. Compile e execute o aplicativo em um emulador ou dispositivo Android.
 
-4. Explore as diferentes categorias de notícias, busque notícias específicas e fique atualizado com as últimas informações.
+4. Explore as diferentes categorias de piadas.
 
 ## Vídeo de utilização do aplicativo
 [Vídeo de demonstração.webm](https://github.com/Mateus003/JokeApp/assets/102229622/e5918a7d-0335-446c-aa3c-4627855210fd)
